@@ -1,7 +1,6 @@
 '''
-Created on Oct 6, 2010
-
-@author: Peter
+__author__ = 'zhuyu'
+2016.5.24
 '''
 from numpy import *
 import matplotlib
