@@ -7,3 +7,6 @@ logisticRegression
 SVM
 支持向量机例子演示和算法实现
 算法：smo和核函数实现
+
+Adaboost
+Adaboost算法实现
