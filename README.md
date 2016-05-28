@@ -10,3 +10,6 @@ SVM
 
 Adaboost
 Adaboost算法实现
+
+KNN
+KNN算法的实现和测试
